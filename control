@@ -1,0 +1,10 @@
+Package: com.hackingdartmouth.fossilize
+Name: Fossilize
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Customizeable Fossil actions using the Fossil Q smartwatch.
+Maintainer: Alex Beals <alexcbeals+tweak@gmail.com>
+Author: Alex Beals <alexcbeals+tweak@gmail.com>
+Section: Tweaks
+Icon: file:///Library/Application Support/Fossilize/icon@2x.png
