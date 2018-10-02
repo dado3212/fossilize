@@ -4,7 +4,7 @@ Fossilize is a Cydia tweak that allows you to run custom code upon pressing one 
 
 ### Installation
 
-To install it, you will need to have the Fossil app on your phone already.  Then you must implement Secret.mm to run whatever code you want (my implementation is not included in this public repo), and then compile.
+To install it, you will need to have the Fossil app on your phone already.  Then you must implement Secret.mm to run whatever code you want (my implementation is not included in this public repo), and then compile.  Then make sure that the two actions in the Fossil app are set to "Ring Phone" and "Commute Time".
 
 ---
 
